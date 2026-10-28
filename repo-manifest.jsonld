@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scikit-hep/uproot-browser/commit/99a0e2106e478633bd518a4e78bbae3dd6ddb7e7",
       "git:hexsha": "99a0e2106e478633bd518a4e78bbae3dd6ddb7e7",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T14:33:18.806333+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scikit-hep/uproot-browser/commit/1737b3a02f2b1d0d4ebd6158daf58c52a9fc8b3d",
